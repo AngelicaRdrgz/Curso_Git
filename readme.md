@@ -50,3 +50,6 @@ aprendi organizar melhor meus projetos
 O que foi que eu aprendi aqui?
 
 aprendi fazer um fork e trazer pro meu propio repositor
+
+Ultima aula do Módulo 5 (Curso Git) Aprendí a dar uma 'garfada' em um projeto :) 
+ es
